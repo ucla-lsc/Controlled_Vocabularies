@@ -1,5 +1,5 @@
-# Controlled Vocabulary for Audio
+# Controlled Vocabulary for Audio Source Media
 
 
-| Term                          	| Use for                           	| Source 	| Notes                                                                                                                                                                                                                                                                                                                         
+| Term                          	| Use for                           	| Source 	| Notes              |
 |-------------------------------	|-----------------------------------	|--------	|-----------------------	|
