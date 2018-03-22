@@ -45,6 +45,8 @@
 | videocassette(s)                                                                                                 | video(s)                                                                                                       | PBCore                               | A general term for unknown videocassette formats. If more specific format information is known, please use the appropriate term from the list below. "Collection contains a variety of videocassette formats."                                                                                      |
 | VX(s)                                                                                                            |                                                                                                                | PBCore                               |                                                                                                                                                                                                                                                                                                     |                                                                                                                        
 
+<h2>Sources</h2>
+
 •	https://calpreservation.org/wp-content/uploads/2013/10/2013-Audiovisual-Formats_draft_webversion-2013oct15.pdf<br>
 •	http://www.arts.texas.gov/wp-content/uploads/2012/04/video.pdf<br>
 • https://psap.library.illinois.edu/collection-id-guide
