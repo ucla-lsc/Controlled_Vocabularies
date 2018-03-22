@@ -1,11 +1,6 @@
 # Controlled Vocabulary Overview
 
-## Developed by:
-### Controlled Vocabulary Lightning Team
-  >*   Courtney Dean, UC Los Angeles
-  >*   Margaret Hughes, UC Los Angeles
-  >*   Kelly Kress, UC Los Angeles 
-  >*   Shira Peltzman, UC Los Angeles
+Developed by Courtney Dean, Margaret Hughes, Kelly Kress, Shira Peltzman in 2017.
   
 ## Background
 
